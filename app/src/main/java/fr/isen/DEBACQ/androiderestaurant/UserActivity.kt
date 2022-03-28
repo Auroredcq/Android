@@ -10,9 +10,9 @@ import com.android.volley.Request
 import com.android.volley.toolbox.JsonObjectRequest
 import com.android.volley.toolbox.Volley
 import com.google.gson.GsonBuilder
-import fr.isen.bejaoui.androiderestaurant.databinding.ActivityUserBinding
-import fr.isen.bejaoui.androiderestaurant.models.RegisterResult
-import fr.isen.bejaoui.androiderestaurant.models.User
+import fr.isen.debacq.androiderestaurant.databinding.ActivityUserBinding
+import fr.isen.debacq.androiderestaurant.models.RegisterResult
+import fr.isen.debacq.androiderestaurant.models.User
 import org.json.JSONObject
 
 interface UserActivityFragmentInteraction {

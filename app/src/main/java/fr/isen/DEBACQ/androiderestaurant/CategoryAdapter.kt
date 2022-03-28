@@ -6,8 +6,8 @@ import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.squareup.picasso.Picasso
-import fr.isen.bejaoui.androiderestaurant.databinding.DishCellBinding
-import fr.isen.bejaoui.androiderestaurant.models.Dish
+import fr.isen.debacq.androiderestaurant.databinding.DishCellBinding
+import fr.isen.debacq.androiderestaurant.models.Dish
 
 
 class CategoryAdapter(private val entries: List<Dish>,

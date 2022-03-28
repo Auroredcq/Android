@@ -4,8 +4,8 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
 import com.google.android.material.snackbar.Snackbar
-import fr.isen.bejaoui.androiderestaurant.databinding.ActivityDetailBinding
-import fr.isen.bejaoui.androiderestaurant.models.Dish
+import fr.isen.debacq.androiderestaurant.databinding.ActivityDetailBinding
+import fr.isen.debacq.androiderestaurant.models.Dish
 import kotlin.math.max
 
 class DetailActivity : BaseActivity() {
